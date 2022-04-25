@@ -8,7 +8,6 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:http/http.dart' as http;
-import 'package:practica_2/env.dart';
 import 'package:record/record.dart';
 import 'package:path_provider/path_provider.dart';
 
